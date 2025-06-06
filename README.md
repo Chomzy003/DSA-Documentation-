@@ -6,4 +6,16 @@ I have learnt quite a number of things ranging from Ms Excel to SQL and now to m
 ## Project Topic: E Commerce Sales Analysis 
 
 ### Project Overview 
-The Data Analysis project aims to generate insight into the sales performance of the E commerce project over the past months
+The Data Analysis project aims to generate insight into the sales performance of the E commerce project over the past months, By analysing the various parameters in the data received we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
+
+### DATA SOURCES
+Data were outsourced from open source 
+
+### Tools Used
+- Ms Excel (for Data Cleaning)
+    - For Data Collection
+    - For Data Cleaning 
+- SQL Server (for Querying and Analysis)
+- Power BI (for creating a report)
+- Ms Power Point (for Presentation)
+
