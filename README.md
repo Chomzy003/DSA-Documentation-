@@ -1,4 +1,4 @@
-# DSA-Documentation-
+# DSA-Documentation
 This is where I started my portfolio building while taking my data analysis class with the incubator hub
 
 I have learnt quite a number of things ranging from Ms Excel to SQL and now to my portfolio Building 
@@ -12,10 +12,12 @@ The Data Analysis project aims to generate insight into the sales performance of
 Data were outsourced from open source 
 
 ### Tools Used
-- Ms Excel (for Data Cleaning)
+- Ms Excel (For Data Cleaning)
     - For Data Collection
-    - For Data Cleaning 
-- SQL Server (for Querying and Analysis)
-- Power BI (for creating a report)
-- Ms Power Point (for Presentation)
+    - For Data Cleaning
+        1. Data Manipulation
+        2. Data Munching 
+- SQL Server (For Querying and Analysis)
+- Power BI (For creating a report)
+- Ms Power Point (For Presentation)
 
