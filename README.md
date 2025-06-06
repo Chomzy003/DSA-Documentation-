@@ -12,7 +12,7 @@ The Data Analysis project aims to generate insight into the sales performance of
 Data were outsourced from open source 
 
 ### Tools Used
-- Ms Excel (For Data Cleaning)
+- Ms Excel for Data Arrangements [Download Here](https://www.microsoft.com)
     - For Data Collection
     - For Data Cleaning
         1. Data Manipulation
